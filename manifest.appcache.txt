@@ -1,0 +1,17 @@
+CACHE MANIFEST
+index.html
+style.css
+Pikachu.png
+javascript.js
+img/Charmander.png
+img/Squirtle.png
+img/Bulbasaur.png
+img/Cyndaquil.png
+img/Totodile.png
+img/Chikorita.png
+img/Torchic.png
+img/Mudkip.png
+img/Treecko.png
+img/Eevee.png
+img/Pikachu.png
+img/Mew.png
